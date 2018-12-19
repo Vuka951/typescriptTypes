@@ -1,5 +1,5 @@
 # TypeScript Types and examples
-Useful commands:
-tsc typescript.ts
-tsc typescript.ts --watch
-node typescript.js
+<b>Useful commands:</b><br />
+tsc typescript.ts<br />
+tsc typescript.ts --watch<br />
+node typescript.js<br />
